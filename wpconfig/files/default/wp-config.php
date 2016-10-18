@@ -21,16 +21,16 @@ define('WP_SITEURL','http://ukw-683887664.us-west-1.elb.amazonaws.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'TheArtOfPassion');
 
 /** MySQL database username */
-define('DB_USER', 'wordpress');
+define('DB_USER', 'phpMyAdmin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'wordpress');
+define('DB_PASSWORD', 'phpMyAdmin');
 
 /** MySQL hostname */
-define('DB_HOST', '');
+define('DB_HOST', 'phpmyadmin.cw637ad2cjeo.us-west-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
