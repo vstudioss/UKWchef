@@ -14,23 +14,23 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', '');
+define('WP_REDIS_HOST', 'ukw-001.c4yvp2.0001.usw1.cache.amazonaws.com');
  
-define('WP_HOME','http://wordpress-990739050.us-east-1.elb.amazonaws.com');
-define('WP_SITEURL','http://wordpress-990739050.us-east-1.elb.amazonaws.com');
+define('WP_HOME','http://theartofpassion-2121623118.us-west-1.elb.amazonaws.com');
+define('WP_SITEURL','http://theartofpassion-2121623118.us-west-1.elb.amazonaws.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'TheArtOfPassion');
 
 /** MySQL database username */
-define('DB_USER', 'wordpress');
+define('DB_USER', 'phpMyAdmin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'wordpress');
+define('DB_PASSWORD', 'phpMyAdmin');
 
 /** MySQL hostname */
-define('DB_HOST', 'wordpress.cw637ad2cjeo.us-west-1.rds.amazonaws.com');
+define('DB_HOST', 'phpmyadmin.cw637ad2cjeo.us-west-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -64,7 +64,7 @@ define('NONCE_SALT',       'put your unique phrase here');
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'DreamsComeTrue_';
 
 /**
  * For developers: WordPress debugging mode.
