@@ -16,8 +16,8 @@
 
 define('WP_REDIS_HOST', 'ukw-001.c4yvp2.0001.usw1.cache.amazonaws.com');
  
-define('WP_HOME','http://d33g52lcwcq6ys.cloudfront.net');
-define('WP_SITEURL','http://d33g52lcwcq6ys.cloudfront.net');
+define('WP_HOME','http://understandingkanyewest.com');
+define('WP_SITEURL','http://understandingkanyewest.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
